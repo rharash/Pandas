@@ -23,7 +23,7 @@ SciKitLearn is the ML library we will be using to create a classifier. Our train
 ## Dashboard
 Tableau will be used to visualize our results and create a story answering our question. 
 
-# Pandas - Communication Protocol
+# Pandas- Communication Protocol
 
 - Master branch- A master branch called Pandas is created for our final team work to be pushed every week.
 
